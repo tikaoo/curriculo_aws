@@ -118,3 +118,24 @@ h2{
  a{
   color:#FFF
  }
+ /* Responsividade */
+@media screen and (max-width: 600px) {
+  .card-container {
+    width: 100%;
+    height: auto;
+    position: relative;
+    margin-bottom: 20px;
+    transform: none;
+  } 
+  
+}
+@media screen and (max-width: 800px) {
+  .card-container {
+    width: 100%;
+    height: auto;
+    position: relative;
+    margin-bottom: 20px;
+    transform: none;
+  } 
+  
+}
